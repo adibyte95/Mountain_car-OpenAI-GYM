@@ -3,6 +3,7 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 
 
 # Gameplay
+![gameplay video](https://github.com/adibyte95/Mountain_car-OpenAI-GYM/blob/master/media/gameplay.gif)
 
 # Note
 pull requests for further improvement is invited
